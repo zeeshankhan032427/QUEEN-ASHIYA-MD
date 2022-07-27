@@ -94,16 +94,15 @@ https://sites.google.com/view/queen-ashiya/home
 ----
 
 <!-- Contact Owner -->
-<b><details><summary> 📞 Contact</summary></b>
+<b><details><summary>Contact</summary></b>
 
-## ```Connect With Me```
-              
-	      Ishan Sandeepa
-	
-	                +94786746412
+*  ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/94786746412"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a /><br>
+</p>
 
 </details>
-
 
 </details><hr>
 
